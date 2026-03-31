@@ -66,6 +66,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Ashhutosh Kumar Singh \
+Ashutosh Kumar Singh \
 📩 Email: ashusingh9621928075@email.com \
 🔗 LinkedIn: https://www.linkedin.com/in/ashutosh-kumar-singh-3195a431a/
