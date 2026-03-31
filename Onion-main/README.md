@@ -23,14 +23,6 @@ Backend: Node.js, Express, MongoDB, Socket.io \
 Cloud Services: Cloudinary, Resend, Arcjet \
 Tools: Git, GitHub, JWT, Sevalla
 
-## 📸 Screenshots
-#### Desktop View 
-<img src="./screenshots/desktop.png" width="700" />
-<img src="./screenshots/desktop2.png" width="700" /> 
-
-#### Mobile View 
-
-<img src="./screenshots/signup.png" width="233" /> <img src="./screenshots/mobile.png" width="250" /> <img src="./screenshots/mobile2.png" width="246" /> 
 
 ## 📁 Project Setup
 
@@ -74,6 +66,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Akhand Pratap Singh \
-📩 Email: singhakhands164@email.com \
-🔗 LinkedIn: https://www.linkedin.com/in/akhand-pratap-singh164/
+Ashhutosh Kumar Singh \
+📩 Email: ashusingh9621928075@email.com \
+🔗 LinkedIn: https://www.linkedin.com/in/ashutosh-kumar-singh-3195a431a/
